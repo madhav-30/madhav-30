@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, DSA**
 
-- 📫 How to reach me **madhavbhardwaj16@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/madhav-bhardwaj-22793621b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
