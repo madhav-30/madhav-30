@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Madhav Bhardwaj</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Hinokami Kagura" width="400" src="https://i.pinimg.com/originals/57/39/f2/5739f2519fb033c5437ca8068e5847ad.gif">
+<img align="right" alt="Sukuna" width="400" src="https://i.pinimg.com/originals/57/39/f2/5739f2519fb033c5437ca8068e5847ad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-30&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-30" /> </p>
 
