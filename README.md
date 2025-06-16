@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-30&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-30" /> </p>
 
-- 🔭 I’m currently studying in **KCCITM Greater Noida**
+- 🌱 I’m eager to learn more about **Tech**
 
-- 🌱 I’m currently learning **DSA, Web Development**
+- 👯 I’m looking to collaborate on **Projects**
 
-- 👯 I’m looking to collaborate on **projects**
-
-- 💬 Ask me about **Python, DSA**
+- 💬 Feel free to reach out for **Tech Stuff**
 
 - 📫 How to reach me **https://www.linkedin.com/in/madhav-bhardwaj-22793621b/**
 
